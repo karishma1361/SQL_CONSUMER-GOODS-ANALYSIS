@@ -1,3 +1,4 @@
+[CONSUMER GOODS ANALYSIS_PDF.pdf](https://github.com/user-attachments/files/17071665/CONSUMER.GOODS.ANALYSIS_PDF.pdf)
 # SQL_CONSUMER-GOODS-ANALYSIS
 
 [consumer_MYSQL QUERIES.pdf](https://github.com/user-attachments/files/17071528/consumer_MYSQL.QUERIES.pdf)
